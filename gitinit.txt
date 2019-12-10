@@ -11,3 +11,4 @@
 // staging area : khi commit được add sẽ được lưu vào staging area
 
 // check out : có thể xóa nhưng thay đổi chưa lên staging
+// reset : thay đổi từ staging xuống working directory
