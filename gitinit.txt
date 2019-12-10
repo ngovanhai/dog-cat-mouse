@@ -35,3 +35,5 @@ xóa luôn commit hiện tại và trở về commit trước
 // git revert <commit> : quay lại 
 
 // .gitignore : ẩn thư mục k muốn commit nó
+
+// git config --global credentail.heper "cache --timeout=18000"
