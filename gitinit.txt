@@ -7,5 +7,7 @@
 // git show : hiển thị chi tiết 1 commit
 // git diff : xem thay của những file đã tồn tại
 
-// working directory : 
-// staging area 
+// working directory : thư mục làm việc
+// staging area : khi commit được add sẽ được lưu vào staging area
+
+// check out : có thể xóa nhưng thay đổi chưa lên staging
