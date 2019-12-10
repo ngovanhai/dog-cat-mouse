@@ -1,1 +1,11 @@
 // git init khởi tạo 1 init
+// git status : kiểm tra trang thái xem có thay đổi gì khởi
+// git add : thêm 1  commit 
+// git commit : đặt tên cho commit 
+
+// git log : hiển thị các commit 
+// git show : hiển thị chi tiết 1 commit
+// git diff : xem thay của những file đã tồn tại
+
+// working directory : 
+// staging area 
