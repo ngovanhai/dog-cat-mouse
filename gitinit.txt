@@ -12,3 +12,26 @@
 
 // check out : có thể xóa nhưng thay đổi chưa lên staging
 // reset : thay đổi từ staging xuống working directory
+
+// git checkout -b <branch> :tạo 1 banch mới và tới đó luôn
+// git checkout <branch> : tới 1 branch nào đó
+// git merge :chèn thay đổi tử branch nhánh vào master
+A <--- B
+git checkout A 
+git merge B
+//git branch -D <bracnh> : xóa 1 branch nào đó
+ex : git bracnch -D test
+
+
+// git reset --soft <to_commit> :
+đưa trở về commit trước và commit hiện tại ở trạng thái staging area
+
+// git reset --mixed <to_commit>
+đưa trở về commit trước và commit hiện tại ở trạng thái working directory
+
+// git reset --hard <to_comimit>
+xóa luôn commit hiện tại và trở về commit trước
+
+// git revert <commit> : quay lại 
+
+// .gitignore : ẩn thư mục k muốn commit nó
